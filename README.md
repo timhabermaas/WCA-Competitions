@@ -4,32 +4,19 @@
 
 [![Code Climate](https://codeclimate.com/github/timhabermaas/wca-competitions.png)](https://codeclimate.com/github/timhabermaas/wca-competitions)
 
-README
-======
+WCA Competitions
+================
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Prerequisites
+-------------
 
-Things you may want to cover:
+* Ruby >= 1.9.3
+* Bundler
 
-* Ruby version
+How to get it running
+---------------------
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-`rake doc:app`.
+    git clone https://github.com/timhabermaas/wca-competitions.git
+    cd wca-competitions
+    bundle
+    bundle exec rails server
