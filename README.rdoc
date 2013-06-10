@@ -1,5 +1,9 @@
 {<img src="https://travis-ci.org/timhabermaas/wca-competitions.png?branch=master" alt="Build Status" />}[https://travis-ci.org/timhabermaas/wca-competitions]
 
+{<img src="https://coveralls.io/repos/timhabermaas/wca-competitions/badge.png" alt="Coverage Status" />}[https://coveralls.io/r/timhabermaas/wca-competitions]
+
+{<img src="https://codeclimate.com/github/timhabermaas/wca-competitions.png" />}[https://codeclimate.com/github/timhabermaas/wca-competitions]
+
 == README
 
 This README would normally document whatever steps are necessary to get the
