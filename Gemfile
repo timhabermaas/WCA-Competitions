@@ -32,6 +32,8 @@ group :doc do
   gem 'sdoc', require: false
 end
 
+gem 'coveralls', require: false
+
 group :development, :test do
   gem 'rspec-rails', '~> 2.0'
 end
