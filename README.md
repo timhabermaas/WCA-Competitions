@@ -1,7 +1,5 @@
 [![Build Status](https://travis-ci.org/timhabermaas/wca-competitions.png?branch=master)](https://travis-ci.org/timhabermaas/wca-competitions)
-
 [![Coverage Status](https://coveralls.io/repos/timhabermaas/wca-competitions/badge.png)](https://coveralls.io/r/timhabermaas/wca-competitions)
-
 [![Code Climate](https://codeclimate.com/github/timhabermaas/wca-competitions.png)](https://codeclimate.com/github/timhabermaas/wca-competitions)
 
 WCA Competitions
